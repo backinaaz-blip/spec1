@@ -30,4 +30,4 @@ How to contribute, build and release are outlined in [CONTRIBUTING.md](CONTRIBUT
 
 ## Contact
 
-Need help or have a question? Join us on [Discord](https://discord.gg/gREUKuF)!
+chelseaespinoza.link.com
